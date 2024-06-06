@@ -1,0 +1,6 @@
+package com.autocrop.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
